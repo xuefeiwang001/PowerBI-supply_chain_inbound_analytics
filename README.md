@@ -15,8 +15,7 @@ to support operational planning and risk monitoring.
 - Volume split by product, transport mode, and client
 
 ## Dashboard Preview
-<img width="713" height="397" alt="image" src="https://github.com/user-attachments/assets/db7dc5a5-5ae1-4e4b-8502-696b3d6ecb14" />
-
+<img width="685" height="385" alt="image" src="https://github.com/user-attachments/assets/d071dd96-6727-4d9e-95d0-a8cd595960e5" />
 
 ## Key Insights
 - Total inbound volume decreased by 14% MoM
