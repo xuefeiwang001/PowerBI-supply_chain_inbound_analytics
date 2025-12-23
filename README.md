@@ -30,5 +30,5 @@ to support operational planning and risk monitoring.
 ## Tools & Skills
 - Power BI
 - DAX
-- Data modeling (fact / dimension)
+- Data modeling (Star schema: fact / dimension tables)
 - Business analysis
